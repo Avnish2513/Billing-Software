@@ -15,6 +15,7 @@ Customer Management: Maintain a comprehensive database of customer information t
 Invoice Generation: Automatically generate detailed invoices with customizable templates, ensuring professional and accurate billing.
 
 Technologies Used
+
 Python: The core programming language used for developing the application.
 
 Tkinter: Provides the graphical user interface for a seamless user experience.
