@@ -1,5 +1,6 @@
 # Billing-Software
 Overview
+
 Welcome to the Billing Software application, a robust and user-friendly solution designed to streamline your billing processes. This application leverages the power of Python's Tkinter module for an intuitive graphical user interface (GUI) and integrates seamlessly with MySQL for efficient data management. Whether you're a small business owner or managing a large retail chain, our Billing Software provides a comprehensive suite of features to enhance your billing operations.
 
 Features
