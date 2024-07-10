@@ -16,5 +16,7 @@ Invoice Generation: Automatically generate detailed invoices with customizable t
 
 Technologies Used
 Python: The core programming language used for developing the application.
+
 Tkinter: Provides the graphical user interface for a seamless user experience.
+
 MySQL: Manages the database, ensuring efficient and reliable data storage and retrieval.
