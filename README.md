@@ -5,9 +5,13 @@ Welcome to the Billing Software application, a robust and user-friendly solution
 Features
 
 Intuitive GUI: Built with Tkinter, the application offers a clean, easy-to-navigate interface, ensuring a smooth user experience.
+
 Database Integration: Utilizes MySQL for reliable and secure data storage, enabling efficient handling of large volumes of transactions.
+
 Product Management: Easily add, update, and delete products with detailed information, including pricing, descriptions, and categories.
+
 Customer Management: Maintain a comprehensive database of customer information to facilitate seamless billing and personalized service.
+
 Invoice Generation: Automatically generate detailed invoices with customizable templates, ensuring professional and accurate billing.
 
 Technologies Used
